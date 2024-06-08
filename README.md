@@ -1,1 +1,1 @@
-![https://pharmacometric.com](https://pharmacometric.com/assets/pmetrics.png)
+![https://pharmacometric.com](https://pharmacometric.com/assets/logomain.png)
