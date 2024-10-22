@@ -6,4 +6,6 @@ __Planned projects__:
  - pharmacometric-shiny-template-model
  - pharmacometric-rmd-template-report
  - pharmacometric-qmd-template-report
+ - ready-to-use sample NONMEM datasets
+ - ready-to-use sample NONMEM control stream
  - pkpdmod.js 
