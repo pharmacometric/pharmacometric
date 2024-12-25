@@ -6,6 +6,7 @@ __Planned projects__:
  - pharmacometric-shiny-template-model ▣
  - pharmacometric-rmd-template-report □
  - pharmacometric-qmd-template-report □
+ - code and report QC toolkit □
  - AI generated / human proofread ready-to-use sample NONMEM datasets □
  - AI generated / human proofread ready-to-use sample NONMEM control streams □
  - pkpdmod.js ▣
