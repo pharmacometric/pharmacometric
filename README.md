@@ -6,7 +6,7 @@ __Planned projects__:
  - pharmacometric-shiny-template-model ▣
     - scientist I: pharmacometric modeler ☑
     - scientist II: pharmacometric automatic modeler
-    - scientist II: pharmacometric AI deep thinker
+    - scientist III: pharmacometric AI deep thinker
  - code and report QC toolkit ☑
  - AI generated / human proofread ready-to-use sample NONMEM datasets □
  - AI generated / human proofread ready-to-use sample NONMEM control streams □
