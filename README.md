@@ -3,9 +3,10 @@
 __Planned projects__:
  - pharmacometric-shiny-template-sims ☑
  - pharmacometric-shiny-template-eda ☑
- - pharmacometric-shiny-template-model ☑
- - pharmacometric-rmd-template-report □
- - pharmacometric-qmd-template-report □
+ - pharmacometric-shiny-template-model ▣
+    - scientist I: pharmacometric modeler ☑
+    - scientist II: pharmacometric automatic modeler
+    - scientist II: pharmacometric AI deep thinker
  - code and report QC toolkit ☑
  - pharmacometric-ai-senior-scientist ▣
  - AI generated / human proofread ready-to-use sample NONMEM datasets □
