@@ -8,7 +8,6 @@ __Planned projects__:
     - scientist II: pharmacometric automatic modeler
     - scientist II: pharmacometric AI deep thinker
  - code and report QC toolkit ☑
- - pharmacometric-ai-senior-scientist ▣
  - AI generated / human proofread ready-to-use sample NONMEM datasets □
  - AI generated / human proofread ready-to-use sample NONMEM control streams □
  - pkpdmod.js ▣
