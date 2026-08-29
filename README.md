@@ -1,4 +1,7 @@
 # Pharmacometrics AI Official
 
-[![https://pharmacometric.com](https://pharmacometric.com/assets/logo_pmx13.png)](https://pharmacometric.com)
+We are officially moving all our projects code base to 
 
+https://github.com/pharmacometricsai
+
+Please follow us there
